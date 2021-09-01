@@ -1,6 +1,6 @@
 ### Olá!
 Meu nome é Henrique, tenho 27 anos, curso Sistemas de Informação e sou um Desenvolvedor Front-end.
-Ultimamente estudando Javascript e Flutter/Dart
+Ultimamente estudando Javascript e Vue.js
 <!--
 **hmriq/hmriq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
