@@ -2,7 +2,7 @@
 <!--
 **hmriq/hmriq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-### Olá! Meu nome é Henriquem 
+### Olá! Meu nome é Henrique!
 
   - No momento, trabalho como desenvolvedor front-end e estou estudando Angular
  <div>
