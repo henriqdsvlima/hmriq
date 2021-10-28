@@ -5,7 +5,6 @@
 ### Olá! Meu nome é Henriquem 
 
   - No momento, trabalho como desenvolvedor front-end e estou estudando Angular
-  - Gosto de jogos independentes, animais, música, e ver aleatoriedades na internet
  <div>
   <a href="https://github.com/hmriq">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hmriq&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
