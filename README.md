@@ -4,7 +4,7 @@
 -->
 ### Olá! Meu nome é Henrique!
 
-  - No momento, trabalho como desenvolvedor front-end e estou estudando Angular
+  - No momento, trabalho como desenvolvedor front-end e estou estudando Python
  <div>
   <a href="https://github.com/hmriq">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hmriq&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
